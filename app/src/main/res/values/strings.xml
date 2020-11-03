@@ -7,4 +7,6 @@
     <string name="second_activity">This is my second activity</string>
 
     <string name="navigate_to_second_activity">Go to Second Activity</string>
+
+    <string name="kill_all">Kill all activities</string>
 </resources>
