@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="my_app_name">Practica 1</string>
+
+    <string name="hello_world">Hello World from strings.xml</string>
+
+    <string name="second_activity">This is my second activity</string>
+
+    <string name="navigate_to_second_activity">Go to Second Activity</string>
+</resources>
